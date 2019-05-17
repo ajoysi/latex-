@@ -1,6 +1,6 @@
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
+![用户手册封面](user--yh.png)
 
 #平台概述
 
